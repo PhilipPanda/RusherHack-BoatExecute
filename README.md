@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## RusherHack 1.20.4 - BoatExecute
+<h1 align="center">RusherHack 1.20.4 - BoatExecute</h1>
 
 ## Features
 
