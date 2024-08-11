@@ -3,7 +3,8 @@
     <img src="assets/images/logo.png" style="width: 25%; height: 25%;" alt="logo">
   </a>
 </p>
-# RusherHack 1.20.4 - BoatExecute
+
+## RusherHack 1.20.4 - BoatExecute
 
 ## Features
 
