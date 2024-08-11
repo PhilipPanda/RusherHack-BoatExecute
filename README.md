@@ -1,10 +1,9 @@
-<a>
-  <img src="assets/images/logo.png" style="width: 45%" alt="logo">
-</a>
-
+<p align="center">
+  <a>
+    <img src="assets/images/logo.png" style="width: 25%; height: 25%;" alt="logo">
+  </a>
+</p>
 # RusherHack 1.20.4 - BoatExecute
-
-Welcome to the official repository for the **RusherHack 1.20.4 Plugin**! This plugin exploits boat movement packets to instantly kill users in boats, making it a powerful tool for those looking to dominate on their Minecraft server.
 
 ## Features
 
