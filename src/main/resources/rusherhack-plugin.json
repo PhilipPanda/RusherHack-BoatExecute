@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "org.boatexecute.BoatExecute",
+  "Name": "BoatExecute",
+  "Version": "${plugin_version}",
+  "Description": "A RusherHack module plugin that exploits boat movement packets to instantly kill all passengers.",
+  "Authors": [
+    "PhilipPanda",
+    "John200410"
+  ],
+  "Minecraft-Versions": [
+    "1.20.4"
+  ]
+}
