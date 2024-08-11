@@ -20,4 +20,4 @@
 
 ## Showcase
 
-[Showcase Video](youtube.com/watch?v=h35gKz9ZQK4&t=31s)
+[Showcase Video](https://www.youtube.com/watch?v=h35gKz9ZQK4&t=31s)
