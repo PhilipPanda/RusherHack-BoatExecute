@@ -6,6 +6,10 @@
 
 <h1 align="center">RusherHack 1.20.4 - BoatExecute</h1>
 
+---
+### A RusherHack module plugin for 1.20.4 that exploits boat movement packets to instantly kill all passengers. 
+---
+
 ## Features
 
 - **Instant Boat Kill:** Automatically kills any user within a boat by exploiting boat movement packets.
